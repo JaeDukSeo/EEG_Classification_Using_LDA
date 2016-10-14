@@ -1,0 +1,3 @@
+These recordings were kindly provided by Thorsten Zander, TU Berlin; if you use these recordings for a publication, please cite:
+
+Zander, T. O., Kothe, C., Jatzev, S., & Gaertner, M. (2010). Enhancing human-computer interaction with input from active and passive brain-computer interfaces. In Brain-Computer Interfaces (pp. 181-199). Springer London.
